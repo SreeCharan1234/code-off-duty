@@ -33,7 +33,8 @@ How our Website works
 # 2.1 All Students
 ![3](https://github.com/SreeCharan1234/code-off-duty/assets/119997965/c61c236a-9115-42a7-8180-a6c6798fa189)
 # 3.1 All Courses
-![Uploading 4.png…]()
+![4](https://github.com/SreeCharan1234/code-off-duty/assets/119997965/e6d05535-c652-48b4-b5e7-6666ca344020)
+
 
 # 3.2 Add Courses
 ![5](https://github.com/SreeCharan1234/code-off-duty/assets/119997965/849b698a-d4c0-4bdd-9b5a-a1b22aa526ce)
@@ -45,18 +46,38 @@ How our Website works
 ![8](https://github.com/SreeCharan1234/code-off-duty/assets/119997965/d5610733-6180-46f5-a69e-3102ba1dd4dd)
 
 
-5. Video Confrencing
+# 5. Video Confrencing
 
 ![12](https://github.com/SreeCharan1234/Code-Of-Duty/assets/119997965/dccb417f-e19e-4287-9e9b-b62c0c1f0c55)
 
 
 
 
-6. AI Help Bot
+# 6. AI Help Bot
 ![chatbot](https://github.com/sushilverma1125/Code-A-Haunt/assets/114611314/48d0515e-71d2-48e3-882a-7230f3977dfc)
 
 
 
-7. Login page
+# 7. Login page
 ![loginformforstudent](https://github.com/sushilverma1125/Code-A-Haunt/assets/114611314/482c7a1b-926f-4da0-8d89-aa0b5d5f479e)
+
+# 8 Levels
+![10](https://github.com/SreeCharan1234/code-off-duty/assets/119997965/19c581ca-ad31-431d-9228-993f494a50ce)
+## 8.1 Easy
+![13](https://github.com/SreeCharan1234/code-off-duty/assets/119997965/dd604de4-4ceb-4f1a-90f5-6a79e57a0fc2)
+## 8.2 Medium
+![14](https://github.com/SreeCharan1234/code-off-duty/assets/119997965/97df2a3b-268a-4b24-b738-544a09ed06a4)
+
+## 8.3 Hard
+![15](https://github.com/SreeCharan1234/code-off-duty/assets/119997965/6fcae17f-6f93-4246-b544-2ee5d9488895)
+# 9 Quiz
+![16](https://github.com/SreeCharan1234/code-off-duty/assets/119997965/bc1b1227-2540-481d-988e-1c65def24862)
+# 9.1  Question
+![19](https://github.com/SreeCharan1234/code-off-duty/assets/119997965/acb0a3fb-8789-4d04-a03c-903691cc7281)
+# 9.2 Score
+![20](https://github.com/SreeCharan1234/code-off-duty/assets/119997965/d15488ff-aabf-44b3-a889-bf371127094c)
+# 9.3 Leader Bord
+![22](https://github.com/SreeCharan1234/code-off-duty/assets/119997965/b1d62069-fe46-4c58-a520-f84c42d33389)
+
+
 
