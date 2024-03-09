@@ -24,6 +24,9 @@ IV)   We've also added courses section in which several best ed-Tech platforms c
 # Screenshots for refrence 🖼️
 How our Website works
 ![21](https://github.com/SreeCharan1234/Code-Of-Duty/assets/119997965/2864d672-d825-48c1-8c89-c7bc11e471bd)
+#  Ai- Attandance 
+![23](https://github.com/SreeCharan1234/code-off-duty/assets/119997965/1da83cb0-ed85-4398-991f-805288cfa594)
+
 # 1.1 All.Professors
 ![1](https://github.com/SreeCharan1234/code-off-duty/assets/119997965/361127f0-b23d-4339-b1be-c90fc53759a4)
 
@@ -78,8 +81,6 @@ How our Website works
 ![20](https://github.com/SreeCharan1234/code-off-duty/assets/119997965/d15488ff-aabf-44b3-a889-bf371127094c)
 # 9.3 Leader Bord
 ![22](https://github.com/SreeCharan1234/code-off-duty/assets/119997965/b1d62069-fe46-4c58-a520-f84c42d33389)
-# 10 Ai- Attandance 
-![23](https://github.com/SreeCharan1234/code-off-duty/assets/119997965/1da83cb0-ed85-4398-991f-805288cfa594)
 
 
 
