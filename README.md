@@ -78,6 +78,9 @@ How our Website works
 ![20](https://github.com/SreeCharan1234/code-off-duty/assets/119997965/d15488ff-aabf-44b3-a889-bf371127094c)
 # 9.3 Leader Bord
 ![22](https://github.com/SreeCharan1234/code-off-duty/assets/119997965/b1d62069-fe46-4c58-a520-f84c42d33389)
+# 10 Ai- Attandance 
+![23](https://github.com/SreeCharan1234/code-off-duty/assets/119997965/1da83cb0-ed85-4398-991f-805288cfa594)
+
 
 
 
