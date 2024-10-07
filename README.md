@@ -21,6 +21,22 @@ III)  We've provided seperate dashboards for students and professors according t
 IV)   In our resources section all the best online coding contents will be freely accesible to all.
 IV)   We've also added courses section in which several best ed-Tech platforms can provide their courses which is also a revenue generation model of our project. 
 
+
+Welcome to the CodeMaster E-Learning Platform repository! Our platform offers a modern approach to online education, incorporating innovative features to enhance the learning experience.
+
+## Features
+
+- **AI Attendance:** Utilize cutting-edge artificial intelligence technology to authenticate users, ensuring accurate attendance records and eliminating the possibility of proxy attendance.
+
+- **1-on-1 Interaction:** Foster meaningful connections between students and instructors through seamless conference calling, facilitating personalized learning experiences.
+
+- **Chat Bot:** Enhance accessibility and support for students with an intelligent chat bot, capable of providing instant assistance and answering queries in real-time.
+
+- **Cheatsheet Repository:** Empower students with a comprehensive cheatsheet repository, offering quick references and supplementary materials to aid in their studies.
+
+- **Separate Dashboards:** Streamline the user experience with separate dashboards tailored for both students and teachers, providing intuitive interfaces to manage courses, assignments, and interactions.
+
+
 # Screenshots for refrence 🖼️
 How our Website works
 ![21](https://github.com/SreeCharan1234/Code-Of-Duty/assets/119997965/2864d672-d825-48c1-8c89-c7bc11e471bd)
